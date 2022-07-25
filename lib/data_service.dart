@@ -7,7 +7,7 @@ class DataService {
 //api.openweathermap.org/data/2.5/weather?q=London,uk&APPID={api key}
     final queryParameters = {
       'q': city,
-      'appid': 'f2a960bb70f2775880c89aca57d145dd',
+      'appid': '##################################',
       'units': 'metric'
     };
 
